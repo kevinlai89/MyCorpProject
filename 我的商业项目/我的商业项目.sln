@@ -3,20 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{64307725-2215-4749-90BF-C0203899D29C}"
-	ProjectSection(SolutionItems) = preProject
-		doc\手机行业的BOM报价，供应商协同平台.vsdx = doc\手机行业的BOM报价，供应商协同平台.vsdx
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C9696C4E-792C-40A6-8D98-0B99D7FF0F5F}"
-	ProjectSection(SolutionItems) = preProject
-		src\新建文本文档 - 副本 (2).txt = src\新建文本文档 - 副本 (2).txt
-		src\新建文本文档 - 副本 (3).txt = src\新建文本文档 - 副本 (3).txt
-		src\新建文本文档 - 副本 (4).txt = src\新建文本文档 - 副本 (4).txt
-		src\新建文本文档 - 副本.txt = src\新建文本文档 - 副本.txt
-		src\新建文本文档.txt = src\新建文本文档.txt
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "手机对应物料的项目", "手机对应物料的项目\手机对应物料的项目.csproj", "{D44D51D4-DE3B-4DE7-BE14-035F51D5296F}"
 EndProject
 Global
